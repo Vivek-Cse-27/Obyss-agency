@@ -219,3 +219,4 @@ cursorAnimation();
 locomotiveAnimation();
 sheryAnimation();
 flagAnimation()
+footerAnimation()
