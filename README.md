@@ -1,3 +1,4 @@
+Hosted Link: https://vivek-cse-27.github.io/Obyss-agency/
 # Obys Agency � Landing Page Clone
 
 A front-end practice project that recreates the visual style and interactions of the Obys Agency website. Built with HTML, CSS, and vanilla JavaScript, and enhanced with GSAP, Locomotive Scroll, and Shery.js.
